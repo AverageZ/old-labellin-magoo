@@ -5,3 +5,5 @@ npm-debug.log
 package-lock.json
 coverage
 lib
+._.DS_Store
+.DS_Store
