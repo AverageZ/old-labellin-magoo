@@ -16,7 +16,7 @@ npm install
 npm run build
 
 # Run the bot
-npm start ZH_TOKEN=your-zenhub-token-here
+ZH_TOKEN=your-zenhub-token-here npm start
 ```
 
 ## Contributing
